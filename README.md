@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sachin Ramdas Jamode
+- 👋 Hi, I’m Sachin R Jamode, currenly working with HSBC, Vancouver, Canada
 - 👀 I’m interested in Cloud related everything
 - 🌱 I’m currently learning cloud
 - 💞️ I’m looking to collaborate on Cloud related project
