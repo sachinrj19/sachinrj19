@@ -1,0 +1,3 @@
+Infrastructure as code commenly known as IAC. 
+Tools of IAC Ansible, Terraform, Harshicap Packers, Harshicap Vagrant,SaltStack,Docker.
+Configuration Management(Ansible,Puppet,SaltStack), ServerTemplating(Docker,HarshiCorpPacker,HarshiCarpVagrant),Provisioning Tool(Terraform,CloudFormation)
